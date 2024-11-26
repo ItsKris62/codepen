@@ -1,6 +1,8 @@
 # Login and Signup Form
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/ItsKris62/pen/azooevZ](https://codepen.io/ItsKris62/pen/azooevZ).
+![image](https://github.com/user-attachments/assets/aa023390-d91d-4ca2-91e0-7002d2e22082)
+
 
 Login and Signup Forms:
 
